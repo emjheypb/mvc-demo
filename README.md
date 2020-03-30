@@ -5,4 +5,4 @@ MVC Demo
 - custom label (CustomLabel.swift)
 - programatically add labels (Controller.swift)
 
-<img src="Screenshot.png"  width="400">
+<img src="Screenshot.png"  width="250">
